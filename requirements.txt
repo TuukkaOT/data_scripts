@@ -1,4 +1,8 @@
+seaborn
 parselmouth-praat
 pandas
 sklearn
 numpy
+os
+re
+argparse
