@@ -1,5 +1,5 @@
 This repository includes some Python scripts I have written for text and audio data analysis.
-As the datasets are not public, the scripts are not possible to run on your own.
+As the datasets are not public, you cannot run the scripts on your own.
 Here's some examples of the visualization though:
 
 ![image](https://user-images.githubusercontent.com/77778762/234274202-8ba3d723-f1a9-427e-ad99-8630c4a68adc.png)
