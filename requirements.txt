@@ -6,3 +6,5 @@ numpy
 os
 re
 argparse
+termcolor
+bs4
