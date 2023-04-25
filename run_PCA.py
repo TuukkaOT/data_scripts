@@ -1,3 +1,10 @@
+################################################################
+# This script runs a principal component analyses on           #
+# the latent prosody space output of a Tacotron 2, or similar, #
+# speech synthesiser and outputs the components on a CSV file. #
+################################################################
+
+
 import os, argparse, re, seaborn as sns, numpy as np
 from sklearn.decomposition import PCA
 import pandas as pd
