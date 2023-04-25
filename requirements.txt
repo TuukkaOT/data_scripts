@@ -1,0 +1,4 @@
+parselmouth-praat
+pandas
+sklearn
+numpy
