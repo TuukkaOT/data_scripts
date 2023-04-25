@@ -1,7 +1,7 @@
 This repository includes some Python scripts I have written for text and audio data analysis.
 As the datasets are not public, you cannot run the all scripts on your own.
 
-Here's some examples of the visualization and the web-interface I made for the speech synthesizer:
+Here's some examples of the PCA visualization and the web-interface I made for the speech synthesizer:
 
 ![image](https://user-images.githubusercontent.com/77778762/234274202-8ba3d723-f1a9-427e-ad99-8630c4a68adc.png)
 ![image](https://user-images.githubusercontent.com/77778762/234274433-7ae67d1e-464d-419a-8325-f9cf89875271.png)
