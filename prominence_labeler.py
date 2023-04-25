@@ -1,3 +1,12 @@
+#######################################################################
+# This script was written for annotating prosodic prominence labels   #
+# on training data for a FastPitch speech synthesizer.                #
+# It takes transcription and prominence data files as its input,      #
+# and outputs annotated transcriptions with categories 0, 1, 2, and 3 #
+# attached to words according to their prominence in the word.        #
+#######################################################################
+
+
 import os, re, random, argparse
 import numpy as np
 
@@ -113,7 +122,12 @@ def main():
                                 new_value_5 = change_value(float(i[5]))
 
 
-                    """ This randomises the possibility of labeling the word, 20% possibility of labeling the word. """
+                    """
+                    This randomises the labeling. If the word is the first word of the utterance and it has the highest cateogoy, it is not labelled
+                    because first words are almost always prominent in Finnish. Because 3 is the most important category, it is given a 0.33 likelihood
+                    of labelling. Other categories are labelled with a likelihood of 0.2
+
+                    """
 
                     random_num = random.randint(0, 100)
                     # Append the modified value to the word.
