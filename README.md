@@ -4,6 +4,5 @@ Necessary Python libraries can be installed by running "pip install -r requireme
 
 Here's some examples of the PCA visualization and the web-interface I made for the speech synthesizer:
 
-![image](https://user-images.githubusercontent.com/77778762/234537039-7dda1b98-dc28-409b-93df-7357f1adde08.png)
-![image](https://user-images.githubusercontent.com/77778762/234540291-2f4e5e41-7f33-47e6-8c8f-97709f00b20b.png)
-
+![image](https://user-images.githubusercontent.com/77778762/234540673-46e9b953-21bd-47fc-8030-f4e9a65dbf46.png)
+![image](https://user-images.githubusercontent.com/77778762/234540708-8e7b7120-766f-4457-a710-c69fe704785d.png)
