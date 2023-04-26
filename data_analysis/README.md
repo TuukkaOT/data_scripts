@@ -1,6 +1,6 @@
 All of the scripts take command line arguments. Check the arguments by running the script with -h flag. The full datasets are not publicly available, so I have added small dummy datasets for demo purposes.
 
-- *acoustic_analysis.py* runs a set of prosodically linked acoustic analyses on a speech corpus. It takes .wav audio files as input. Dataset in [wavs[(datasets/wavs) folder.
+- *acoustic_analysis.py* runs a set of prosodically linked acoustic analyses on a speech corpus. It takes .wav audio files as input. Dataset in [wavs](datasets/wavs) folder.
 - *temporal_analysis.py* analyses temporal features of audio files. It requires TextGrid files as input. E.g., aligned with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic). Use dataset in TextGrids folder
 - *extract_prominent_syllables.py* looks for the most prominent syllables in prominence files that have been extracted with the [Wavelet Prosody Toolkit](https://github.com/asuni/wavelet_prosody_toolkit) by Suni et al. Use dataset in prominence_files folder.
 - *prominence_labeler.py* annotates transcripts according to the prominence files (Note that in the dummy dataset, there might only be a couple of words annotated as the labelling is randomized).
