@@ -1,5 +1,5 @@
 ###############################################
-# This program accesses the YLE and Guardian  #
+# This program accesses the BBC and Guardian  #
 # news websites, retrieves text from them and #
 # prints the top ten headlines.               #
 # ––––––––––––––––––––––––––––––––––––––––––– #
