@@ -1,5 +1,3 @@
-I will put here some apps I made during university language technology courses. 
-
 - The review scraper retrieves critics consensuses from the Rotten Tomatoes top 100 movies list, makes it into a Pandas DataFrame, prints its head and stores the dataframe on a CSV file.
 
 ![image](https://user-images.githubusercontent.com/77778762/234532343-52db9e42-bc5c-4e04-b537-d6e39994cde1.png)
