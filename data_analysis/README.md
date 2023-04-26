@@ -1,0 +1,5 @@
+- acoustic_analysis.py is used for running a set of prosodically linked acoustic analyses on a specch corpus.
+- extract_prominent_syllables.py is used to look for the most prominent syllables in prominence files that have been extracted with the [Wavelet Prosody Toolkit](https://github.com/asuni/wavelet_prosody_toolkit) by Suni et al.
+- prominence_labeler.py is used to categorically annotate transcripts according to the prominence files.
+- run_PCA.py runs a principal component analysis, a linear transformation technique for dimensionality reduction, on the latent space of a neural speech synthesizer.
+- pca_visualization.py plots principal components ona 1-3 dimensional plane.
