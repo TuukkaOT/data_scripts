@@ -1,5 +1,5 @@
 seaborn==0.12.2
-parselmouth-praat==0.4.3
+praat-parselmouth==0.4.3
 pandas==1.5.1
 sklearn==1.1.3
 numpy==1.23.5
