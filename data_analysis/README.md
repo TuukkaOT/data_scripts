@@ -1,4 +1,4 @@
-All of the scripts take arguments. Check the arguments by running the script with -h flag. Small example datasets are located in the datasets folder.
+All of the scripts take command line arguments. Check the arguments by running the script with -h flag. Small example datasets are located in the datasets folder.
 
 - *acoustic_analysis.py* runs a set of prosodically linked acoustic analyses on a speech corpus. It takes .wav audio files as input. An example dataset is in datasets/wavs/ folder
 - *temporal_analysis.py* analyses temporal features of audio files. It requires TextGrid files as input. E.g., aligned with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic). Example dataset is located in the datasets/TextGrids/ folder
