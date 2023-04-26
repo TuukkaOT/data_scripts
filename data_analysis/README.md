@@ -1,4 +1,4 @@
-- *acoustic_analysis.py* runs a set of prosodically linked acoustic analyses on a speech corpus. It takes .wav audio files as input.
+- *acoustic_analysis.py* runs a set of prosodically linked acoustic analyses on a speech corpus. It takes .wav audio files as input. An example dataset is in datasets/wavs/ folder
 - *temporal_analysis.py* analyses temporal features of audio files. It requires TextGrid files as input. E.g., aligned with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic). Example dataset is located in the datasets/TextGrids/ folder
 - *extract_prominent_syllables.py* looks for the most prominent syllables in prominence files that have been extracted with the [Wavelet Prosody Toolkit](https://github.com/asuni/wavelet_prosody_toolkit) by Suni et al.
 - *prominence_labeler.py* annotates transcripts according to the prominence files.
