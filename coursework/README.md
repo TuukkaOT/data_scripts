@@ -1,4 +1,4 @@
-I will put here some assignments I completed during university language technology courses. 
+I will put here some apps I made during university language technology courses. 
 
 - The review scraper retrieves critics consensuses from the Rotten Tomatoes top 100 movies list, makes it into a Pandas DataFrame, prints its head and stores the dataframe on a CSV file.
 
