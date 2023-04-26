@@ -6,5 +6,6 @@ Here's some examples of the PCA visualization and the web-interface I made for t
 
 ![image](https://user-images.githubusercontent.com/77778762/234540673-46e9b953-21bd-47fc-8030-f4e9a65dbf46.png)
 ![image](https://user-images.githubusercontent.com/77778762/234541175-98d36170-2ea8-4570-ad80-8680cf98806a.png)
-![image](https://user-images.githubusercontent.com/77778762/234562737-9911c551-3094-4ed0-bd9d-84cd3238aaab.png)
+![image](https://user-images.githubusercontent.com/77778762/234562864-4a00273c-bdbd-409b-b835-ffb1019dde59.png)
+
 
