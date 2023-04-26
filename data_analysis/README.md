@@ -1,6 +1,6 @@
-- acoustic_analysis.py runs a set of prosodically linked acoustic analyses on a specch corpus.
-- temporal_analysis.py analyses temporal features of audio files aligned into TextGrid files with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic).
-- extract_prominent_syllables.py looks for the most prominent syllables in prominence files that have been extracted with the [Wavelet Prosody Toolkit](https://github.com/asuni/wavelet_prosody_toolkit) by Suni et al.
-- prominence_labeler.py annotates transcripts according to the prominence files.
-- run_pca.py runs a principal component analysis, a linear transformation technique for dimensionality reduction, on the latent space of a neural speech synthesizer.
-- pca_visualization.py plots principal components on a 1-3 dimensional plane.
+- *acoustic_analysis.py* runs a set of prosodically linked acoustic analyses on a specch corpus.
+- *temporal_analysis.py* analyses temporal features of audio files aligned into TextGrid files with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic).
+- *extract_prominent_syllables.py* looks for the most prominent syllables in prominence files that have been extracted with the [Wavelet Prosody Toolkit](https://github.com/asuni/wavelet_prosody_toolkit) by Suni et al.
+- *prominence_labeler.py* annotates transcripts according to the prominence files.
+- *run_pca.py* runs a principal component analysis, a linear transformation technique for dimensionality reduction, on the latent space of a neural speech synthesizer.
+- *pca_visualization.py* plots principal components on a 1-3 dimensional plane.
