@@ -2,7 +2,7 @@ This repository is a showcase of some Python scripts I've written. The data_anal
 
 *After cloning the repository, necessary packages that aren't in the Python standard library can be installed by running "pip install -r requirements.txt" in the folder. You might want to create a separate, e.g. [Conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), environment (I have used Python version 3.10.9) especially as some of the scripts require older versions of some packages.*
 
-Here's some examples of the PCA visualization and the web-interface I made for a speech synthesizer:
+Here are some examples of the PCA visualization and the web-interface I made for a speech synthesizer:
 
 ![image](https://user-images.githubusercontent.com/77778762/234540673-46e9b953-21bd-47fc-8030-f4e9a65dbf46.png)
 ![image](https://user-images.githubusercontent.com/77778762/234541175-98d36170-2ea8-4570-ad80-8680cf98806a.png)
