@@ -1,5 +1,5 @@
 - acoustic_analysis.py is used for running a set of prosodically linked acoustic analyses on a specch corpus.
-- temporal_analysis.py is used for analysing temporal features of audio files extracted to TextGrid files with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic).
+- temporal_analysis.py is used for analysing temporal features of audio files aligned into TextGrid files with [WebMAUS](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic).
 - extract_prominent_syllables.py is used to look for the most prominent syllables in prominence files that have been extracted with the [Wavelet Prosody Toolkit](https://github.com/asuni/wavelet_prosody_toolkit) by Suni et al.
 - prominence_labeler.py is used to categorically annotate transcripts according to the prominence files.
 - run_PCA.py runs a principal component analysis, a linear transformation technique for dimensionality reduction, on the latent space of a neural speech synthesizer.
